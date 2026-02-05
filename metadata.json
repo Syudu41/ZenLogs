@@ -1,0 +1,7 @@
+{
+  "name": "ZenLogs",
+  "description": "A minimalist, AI-powered daily logging application for tracking thoughts, tasks, and progress with ease.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
